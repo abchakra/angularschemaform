@@ -1,12 +1,11 @@
-/* app css stylesheet */
+.form-group {
+  margin-left: 1em;
+  margin-right: 1em;
+  font-size:medium;
+}
 
-.stateLink{
-    width: 100%
-}
-.selected {
-    border-radius:4px;
-    background-color: rgba(51, 122, 183, 0.2);
-}
-.jsf hr.creation-separator {
-    border: 1px inset black
+.checkbox {
+  margin-left: 1em;
+  margin-right: 1em;
+   font-size:medium;
 }

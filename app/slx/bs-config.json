@@ -1,7 +1,7 @@
 {
     "port": 8123,
     "server": {
-        "baseDir": "./app/day2",
+        "baseDir": "./app/slx",
         "routes": {
             "/node_modules": "node_modules",
             "/css": "app/css"
