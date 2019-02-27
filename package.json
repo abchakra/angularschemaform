@@ -10,7 +10,7 @@
     "angular-sanitize": "^1.6.4",
     "angular-ui-bootstrap": "^2.5.0",
     "angular-resource": "1.5.9",
-    "bootstrap": "3.3.7",
+    "bootstrap": ">=3.4.1",
     "angular-schema-form": "latest",
     "angular-schema-form-bootstrap": "~0",
     "tv4": "~1.0.15",
